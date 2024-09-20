@@ -1,4 +1,2 @@
 # dhoni
-this is my first repository
-this is my redme file of branch1
-thala for a reason
+ MS Dhoni ' 7 ' thala for a reason
